@@ -23,12 +23,12 @@ actual result from the project implementation of multiple linear regression
 
 Decision Tree Regression:
 This regression model has medium mean absolute error, hence turned out to be the little accurate model. Given below is a screenshot of the
-actual result from the project implementation of multiple linear regression
+actual result from the project implementation of decision tree regression
 <img width="188" alt="image" src="https://github.com/kalyaniIN/ITHS-Lab3-Part2/assets/61795426/92597b60-5591-45d5-9d8f-bce3b0185cf4">
 
 Random Forest Regression:
 This regression model has low mean absolute error, hence turned out to be the more accurate model. Given below is a snapshot of the
-actual result from the project implementation of multiple linear regression.
+actual result from the project implementation of random forest regression.
 <img width="194" alt="image" src="https://github.com/kalyaniIN/ITHS-Lab3-Part2/assets/61795426/a30df92b-443b-4dda-964f-5261d28260e0">
 
 
